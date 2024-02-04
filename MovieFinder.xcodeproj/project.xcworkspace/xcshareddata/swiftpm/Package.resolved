@@ -1,0 +1,59 @@
+{
+  "pins" : [
+    {
+      "identity" : "factory",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hmlongco/Factory",
+      "state" : {
+        "revision" : "061b3afe0358a0da7ce568f8272c847910be3dd7",
+        "version" : "2.2.0"
+      }
+    },
+    {
+      "identity" : "skeletonui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CSolanaM/SkeletonUI",
+      "state" : {
+        "revision" : "0fe0817371ad79711af4f5b66b45c86f7eeda4ec",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "swift-snapshot-testing",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-snapshot-testing",
+      "state" : {
+        "revision" : "696b86a6d151578bca7c1a2a3ed419a5f834d40f",
+        "version" : "1.13.0"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "revision" : "74203046135342e4a4a627476dd6caf8b28fe11b",
+        "version" : "509.0.0"
+      }
+    },
+    {
+      "identity" : "swiftui-cached-async-image",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lorenzofiamingo/swiftui-cached-async-image",
+      "state" : {
+        "revision" : "467a3d17479887943ab917a379e62bbaff60ac8a",
+        "version" : "2.1.1"
+      }
+    },
+    {
+      "identity" : "tmdb",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adamayoung/TMDb",
+      "state" : {
+        "revision" : "764e59eede24ea912a924663e6a068b8d3c8551b",
+        "version" : "9.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
