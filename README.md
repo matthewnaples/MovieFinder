@@ -1,7 +1,9 @@
 # Movie Finder iOS
 <p float="left">
   <img src="screenshot.png" width="200" />
+  <img src="recording.gif" width="200" /> 
   <img src="detail.png" width="200" /> 
+  
 </p>
 
 ## Overview
