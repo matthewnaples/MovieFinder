@@ -1,5 +1,7 @@
 # Movie Finder iOS
 <img src="screenshot.png" width="250" />
+<img src="detail" width="250" />
+
 
 ## Overview
 This app is a take-home interview project to demonstrate general iOS mobile app development skills within a few hours.
