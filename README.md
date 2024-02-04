@@ -1,4 +1,6 @@
 # Movie Finder iOS
+A take-home interview project to demonstrate general iOS mobile app development skills within a few hours.
+
 <p float="left">
   <img src="screenshot.png" width="200" />
   <img src="recording.gif" width="200" /> 
@@ -7,8 +9,6 @@
 </p>
 
 ## Overview
-This app is a take-home interview project to demonstrate general iOS mobile app development skills within a few hours.
-
 Welcome to the Movie Finder App, an iOS application built using Swift. This app leverages the TMDB API (The Movie Database) to access recent movies, allowing users to add movies to their favorites, read reviews and ratings, and discover similar films.
 
 ## Features
