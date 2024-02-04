@@ -33,6 +33,7 @@
 		198D95AF2AC3401B0068A35E /* FavoritesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 198D95AE2AC3401B0068A35E /* FavoritesViewModel.swift */; };
 		19C7D0832AC1F20B0006E959 /* SkeletonUI in Frameworks */ = {isa = PBXBuildFile; productRef = 19C7D0822AC1F20B0006E959 /* SkeletonUI */; };
 		19CFF7572B701BDD002FFB0D /* APIKey.json in Resources */ = {isa = PBXBuildFile; fileRef = 19CFF7562B701BDD002FFB0D /* APIKey.json */; };
+		19CFF7592B701E9F002FFB0D /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19CFF7582B701E9F002FFB0D /* Config.swift */; };
 		19D99C2F2AC1F5B20099EE0C /* DetailSections.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19D99C2E2AC1F5B20099EE0C /* DetailSections.swift */; };
 		19D99C412AC1FA0C0099EE0C /* TestNational2Compressed-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 19D99C312AC1FA0B0099EE0C /* TestNational2Compressed-Regular.otf */; };
 		19D99C422AC1FA0C0099EE0C /* TestNational2Compressed-ExtraboldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 19D99C322AC1FA0B0099EE0C /* TestNational2Compressed-ExtraboldItalic.otf */; };
@@ -95,6 +96,7 @@
 		198D95AC2AC309E00068A35E /* FavoritesService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesService.swift; sourceTree = "<group>"; };
 		198D95AE2AC3401B0068A35E /* FavoritesViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesViewModel.swift; sourceTree = "<group>"; };
 		19CFF7562B701BDD002FFB0D /* APIKey.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = APIKey.json; sourceTree = "<group>"; };
+		19CFF7582B701E9F002FFB0D /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
 		19D99C2E2AC1F5B20099EE0C /* DetailSections.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailSections.swift; sourceTree = "<group>"; };
 		19D99C312AC1FA0B0099EE0C /* TestNational2Compressed-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TestNational2Compressed-Regular.otf"; sourceTree = "<group>"; };
 		19D99C322AC1FA0B0099EE0C /* TestNational2Compressed-ExtraboldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TestNational2Compressed-ExtraboldItalic.otf"; sourceTree = "<group>"; };
@@ -179,6 +181,7 @@
 				196DA5B42AC1C620007960F9 /* Preview Content */,
 				198D95902AC22AF10068A35E /* Color+Extensions.swift */,
 				198D95A82AC301980068A35E /* Factory+Extensions.swift */,
+				19CFF7582B701E9F002FFB0D /* Config.swift */,
 				19CFF7562B701BDD002FFB0D /* APIKey.json */,
 			);
 			path = MovieFinder;
@@ -446,6 +449,7 @@
 				198D95A92AC301980068A35E /* Factory+Extensions.swift in Sources */,
 				198D958C2AC219F40068A35E /* MovieDetail.swift in Sources */,
 				198D95912AC22AF10068A35E /* Color+Extensions.swift in Sources */,
+				19CFF7592B701E9F002FFB0D /* Config.swift in Sources */,
 				196DA5AF2AC1C61F007960F9 /* MovieFinderApp.swift in Sources */,
 				198D95AF2AC3401B0068A35E /* FavoritesViewModel.swift in Sources */,
 				198D95AB2AC306FA0068A35E /* ReviewModel.swift in Sources */,
