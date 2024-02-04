@@ -17,7 +17,7 @@ Welcome to the Movie Finder App, an iOS application built using Swift. This app 
 
 - **Add Movies to Favorites**: Users can easily add movies to their favorites list. The favorites list is persisted locally on the device, ensuring users can access it even after closing the app.
 
-- **View Movie Details**: By selecting a specific movie, users can access comprehensive information, including a synopsis, user ratings, reviews, and similar movies.
+- **View Movie Details**: By selecting a specific movie, users can access comprehensive information, including a synopsis, user ratings, and reviews.
 
 - **Discover Similar Movies**: While viewing a movie's details, users can also discover a list of similar films, facilitating their exploration of new movies aligned with their interests.
 
