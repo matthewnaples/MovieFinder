@@ -42,6 +42,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - Special thanks to the TMDB API for providing movie data.
-- Icons used in this app are from [FontAwesome](https://fontawesome.com/).
+- Fonts used in this app are from [Klim Type Foundry](https://klim.co.nz/collections/national-2/).
 
 Feel free to reach out with any questions or feedback. Enjoy exploring movies with the Movie Portfolio App!
