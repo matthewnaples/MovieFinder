@@ -15,7 +15,7 @@ Welcome to the Movie Finder App, an iOS application built using Swift. This app 
 
 - **Browse New Movies**: Users can explore a list of the latest movies retrieved from the TMDB API. The movie list includes poster images and essential details such as the title and release date.
 
-- **Add Movies to Favorites**: Users can easily add movies to their favorites list by tapping an "Add to Favorites" button. The favorites list is stored locally on the device, ensuring users can access it even after closing the app.
+- **Add Movies to Favorites**: Users can easily add movies to their favorites list. The favorites list is persisted locally on the device, ensuring users can access it even after closing the app.
 
 - **View Movie Details**: By selecting a specific movie, users can access comprehensive information, including a synopsis, user ratings, reviews, and similar movies.
 
