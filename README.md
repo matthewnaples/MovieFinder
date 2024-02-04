@@ -1,6 +1,6 @@
 # Movie Finder iOS
 <img src="screenshot.png" width="250" />
-<img src="detail" width="250" />
+<img src="detail.png" width="250" />
 
 
 ## Overview
